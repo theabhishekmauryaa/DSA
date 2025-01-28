@@ -1,0 +1,12 @@
+What is  a String?
+=> A string is a sequence of character. In programing , it is usually enclosed in double quotes(") or sigle questes(').
+
+
+What is a SubString?
+=> A substring is apart of a string. it is extraced from the  main string using its starting and endig posotion(incdices).
+
+1. Find All Substrings of a String
+Algorithm:
+=> Use two nested loops.
+Outer loop starts at each character.
+Inner loop generates substrings starting from the outer loop index.
